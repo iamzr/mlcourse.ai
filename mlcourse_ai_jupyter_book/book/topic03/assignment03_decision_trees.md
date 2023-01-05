@@ -148,7 +148,7 @@ df_test
 # You code here (read-only in a JupyterBook, pls run jupyter-notebook to edit)
 ```
 
-### Additional: display the resulting tree using graphviz. You can use pydot or [web-service](https://www.coolutils.com/ru/online/DOT-to-PNG) dot2png.
+### Additional: display the resulting tree using graphviz. You can use pydot or a web-service, e.g. [this one](https://onlineconvertfree.com/convert-format/dot-to-png/).
 
 
 ```{code-cell} ipython3
@@ -229,7 +229,7 @@ def information_gains(X, y):
 
 **Dataset description:**
 
-[Dataset](http://archive.ics.uci.edu/ml/machine-learning-databases/adult) UCI Adult (no need to download it, we have a copy in the course repository): classify people using demographical data - whether they earn more than \$50,000 per year or not.
+[Dataset](http://archive.ics.uci.edu/ml/machine-learning-databases/adult) UCI Adult (no need to download it, we have a copy in the course repository): classify people using demographic data - whether they earn more than \$50,000 per year or not.
 
 Feature descriptions:
 

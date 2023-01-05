@@ -7,7 +7,7 @@
 
 
 
-[mlcourse.ai](https://mlcourse.ai) is an open Machine Learning course by [OpenDataScience (ods.ai)](https://ods.ai/), led by [Yury Kashnitsky (yorko)](https://yorko.github.io/). Having both a Ph.D. degree in applied math and a Kaggle Competitions Master tier, Yury aimed at designing an ML course with a perfect balance between theory and practice. Thus, you go through math formulae in lectures, and practice with Kaggle Inclass competitions. Currently, the course is in a **self-paced mode**. Here we guide you through the self-paced [mlcourse.ai](https://mlcourse.ai).
+[mlcourse.ai](https://mlcourse.ai) is an open Machine Learning course by [OpenDataScience (ods.ai)](https://ods.ai/), led by [Yury Kashnitsky (yorko)](https://yorko.github.io/). Having both a Ph.D. degree in applied math and a Kaggle Competitions Master tier, Yury aimed at designing an ML course with a perfect balance between theory and practice. Thus, the course meets you with math formulae in lectures, and a lot of practice in a form of assignments and  Kaggle Inclass competitions. Currently, the course is in a **self-paced mode**. Here we guide you through the self-paced [mlcourse.ai](https://mlcourse.ai).
 
 In the following [short video](https://youtu.be/CPlYV_DryEo) we discuss how to best approach the course material:
 
@@ -18,20 +18,28 @@ In the following [short video](https://youtu.be/CPlYV_DryEo) we discuss how to b
 
 ## How to navigate this website and pass the course
 
-Here you see a [Jupyter book](https://jupyterbook.org/intro.html) -- an executable book containing markdown, code, images, graphs, etc. (we describe Jupyter books in more detail [later](./prereqs/software_devops.html#jupyter-book)). You can jump forward and backward with left and right arrows. Any page can be downloaded as `.md` (MarkDown) or PDF -- use the Download button in the upper-right corner. Additionally, each page containing code can be downloaded as `.ipynb` -- a [Jupyter Notebook](https://jupyter.org) (not to be confused with Jupyter book). For every page, you can see its source on GitHub, and you can also open an issue or suggest an edit -- use the GitHub button in the upper-right corner.
+Here you see a [Jupyter book](https://jupyterbook.org/intro.html) -- an executable book containing MarkDown, code, images, graphs, etc. (we describe Jupyter books in more detail [later](./prereqs/software_devops.html#jupyter-book)). You can jump forward and backward with left and right arrows. Any page can be downloaded as `.md` (MarkDown) or PDF -- use the Download button in the upper-right corner. Additionally, each page containing code can be downloaded as `.ipynb` -- a [Jupyter Notebook](https://jupyter.org) (not to be confused with Jupyter book). For every page, you can see its source on GitHub, and you can also open an issue or suggest an edit -- use the GitHub button in the upper-right corner.
 
 OK, let's go! First, check [prerequisites](prereq_python), then you see 10 topics -- from exploratory data analysis with Pandas to gradient boosting. For each topic, there's an introductory part ([here's an example](topic01_intro) for Topic 1) that lists articles to read, lectures to watch and assignments to crack.
 
 ## Bonus assignments
 
-Additionally, you can purchase a **Bonus Assignments pack** with the best non-demo versions of [mlcourse.ai](https://mlcourse.ai/) assignments. Select the ["Bonus Assignments" tier](https://www.patreon.com/ods_mlcourse).
+Additionally, you can purchase a **Bonus Assignments pack** with the best non-demo versions of [mlcourse.ai](https://mlcourse.ai/) assignments. Select the ["Bonus Assignments" tier](https://www.patreon.com/ods_mlcourse) on Patreon or a [similar tier](https://boosty.to/ods_mlcourse/purchase/1142055?ssource=DIRECT&share=subscription_link) on Boosty (rus).
 
 <div class="row">
   <div class="col-md-8" markdown="1">
+  <p align="center">
   <a href="https://www.patreon.com/ods_mlcourse">
          <img src="../_static/img/become_a_patron.png">
-      </a>
-  </div>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://boosty.to/ods_mlcourse">
+         <img src="../_static/img/boosty_logo.png" width=200px%>
+  </a>
+  </p>
+
+</div>
+
   <div class="col-md-4" markdown="1">
   <details>
   <summary>Details of the deal</summary>
@@ -69,11 +77,3 @@ If you scroll down here on the left, you see the "About the course" section with
  - One of the motivating features of the the past mlcourse.ai sessions was the leaderboard. Top 100 participants of each session are listed on the [Rating](rating) page;
  - The [Resources](resources) page lists other resources constituting the course, e.g. YouTube playlists or Medium/Habr.com articles written in the past;
  - Authors and some of the mlcourse.ai contributors (there were too many to list all of them) are listed on the [Contributors](contributors) page. Acknowledgements are there as well.
-
-<!-- - Lastly, the [Support](support) page -->
-
-## Russian version of the course
-
-The course originated in [OpenDataScience](https://ods.ai/), at that time in 2017 (well, and still), mostly Russian-speaking community. Hence the first couple of sessions were held in Russian. Then, later, the course launched in English and resulted in what you see here.
-
-The Russian version of the course is resurrected and will be led by [Petr Ermakov](https://www.linkedin.com/in/ermakovpetr/). If you speak Russian, please refer to [this Open ML course](https://ods.ai/tracks/open-ml-course) launching on **Feb 1st, 2022.**

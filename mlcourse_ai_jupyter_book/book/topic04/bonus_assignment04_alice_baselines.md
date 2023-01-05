@@ -6,13 +6,19 @@
 :width: 200px
 ```
 
-You can purchase a Bonus Assignments pack with the best non-demo versions of [mlcourse.ai](https://mlcourse.ai/) assignments. Select the ["Bonus Assignments" tier](https://www.patreon.com/ods_mlcourse).
+You can purchase a Bonus Assignments pack with the best non-demo versions of [mlcourse.ai](https://mlcourse.ai/) assignments. Select the ["Bonus Assignments" tier](https://www.patreon.com/ods_mlcourse) on Patreon or a [similar tier](https://boosty.to/ods_mlcourse/purchase/1142055?ssource=DIRECT&share=subscription_link) on Boosty (rus).
 
 <div class="row">
   <div class="col-md-8" markdown="1">
+  <p align="center">
   <a href="https://www.patreon.com/ods_mlcourse">
          <img src="../../_static/img/become_a_patron.png">
-      </a>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://boosty.to/ods_mlcourse">
+         <img src="../../_static/img/boosty_logo.png" width=200px >
+  </a>
+  </p>
   </div>
   <div class="col-md-4" markdown="1">
   <details>
@@ -36,6 +42,6 @@ The competition is about identifying a user ("Alice") on the Internet through tr
 :width: 600px
 ```
 
-For example, the figure above depicts the distribution of session start hours for Alice an others. You might see that distributions are quite different. Hence, such a feature can be added to the model and improve its quality. Such activity -- feature engineering -- is a very creative process (we touch it later in the course as well). And it turns out, this competition is very rewarding for thoughtful feature engineering. And well, coming up with good features via visual analysis, adding those to the model and climbing up the leaderboard -- that's an unforgettable adventure!
+For example, the figure above depicts the distribution of session start hours for Alice and others. You might see that distributions are quite different. Hence, such a feature can be added to the model and improve its quality. Such an activity -- feature engineering -- is a very creative process (we touch it later in the course as well). And it turns out, this competition is very rewarding for thoughtful feature engineering. And well, coming up with good features via visual analysis, adding those to the model, and climbing up the leaderboard -- that's an unforgettable adventure!
 
 In this task, we arm you with a fairly well-performing baseline, and then you are invited to come up with new features and beat baselines.

@@ -11,7 +11,7 @@
 
 </div>
 
-[mlcourse.ai](https://mlcourse.ai) is an open Machine Learning course by [OpenDataScience (ods.ai)](https://ods.ai/), led by [Yury Kashnitsky (yorko)](https://yorko.github.io/). Having both a Ph.D. degree in applied math and a Kaggle Competitions Master tier, Yury aimed at designing an ML course with a perfect balance between theory and practice. Thus, you go through math formulae in lectures, and practice with Kaggle Inclass competitions. Currently, the course is in a **self-paced mode**. Check out a thorough [Roadmap](roadmap) guiding you through the self-paced mlcourse.ai. The Russian version of the course is resurrected and will be led by [Petr Ermakov](https://www.linkedin.com/in/ermakovpetr/). If you speak Russian, please refer to [this Open ML course](https://ods.ai/tracks/open-ml-course) launching on Feb 1st, 2022.
+[mlcourse.ai](https://mlcourse.ai) is an open Machine Learning course by [OpenDataScience (ods.ai)](https://ods.ai/), led by [Yury Kashnitsky (yorko)](https://yorko.github.io/). Having both a Ph.D. degree in applied math and a Kaggle Competitions Master tier, Yury aimed at designing an ML course with a perfect balance between theory and practice. Thus, the course meets you with math formulae in lectures, and a lot of practice in a form of assignments and  Kaggle Inclass competitions. Currently, the course is in a **self-paced mode**. Here we guide you through the self-paced [mlcourse.ai](https://mlcourse.ai).
 
 __Bonus:__
 Additionally, you can purchase a Bonus Assignments pack with the best non-demo versions of [mlcourse.ai](https://mlcourse.ai/) assignments. Select the ["Bonus Assignments" tier](https://www.patreon.com/ods_mlcourse). Refer to the details of the deal on the main page [mlcourse.ai](https://mlcourse.ai/).
@@ -65,16 +65,44 @@ The following are demo-assignments. Additionally, within the ["Bonus Assignments
 9. Time series analysis, [nbviewer](https://nbviewer.jupyter.org/github/Yorko/mlcourse.ai/blob/main/jupyter_english/assignments_demo/assignment09_time_series.ipynb?flush_cache=true), [Kaggle Notebook](https://www.kaggle.com/kashnitsky/assignment-9-time-series-analysis), [solution](https://www.kaggle.com/kashnitsky/a9-demo-time-series-analysis-solution)
 10. Beating baseline in a competition, [Kaggle Notebook](https://www.kaggle.com/kashnitsky/assignment-10-gradient-boosting-and-flight-delays)
 
+### Bonus assignments
+
+Additionally, you can purchase a **Bonus Assignments pack** with the best non-demo versions of [mlcourse.ai](https://mlcourse.ai/) assignments. Select the ["Bonus Assignments" tier](https://www.patreon.com/ods_mlcourse) on Patreon or a [similar tier](https://boosty.to/ods_mlcourse/purchase/1142055?ssource=DIRECT&share=subscription_link) on Boosty (rus).
+
+<div class="row">
+  <div class="col-md-8" markdown="1">
+  <p align="center">
+  <a href="https://www.patreon.com/ods_mlcourse">
+         <img src="mlcourse_ai_jupyter_book/_static/img/become_a_patron.png">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://boosty.to/ods_mlcourse">
+         <img src="mlcourse_ai_jupyter_book/_static/img/boosty_logo.png" width=200px%>
+  </a>
+  </p>
+
+</div>
+
+  <div class="col-md-4" markdown="1">
+  <details>
+  <summary>Details of the deal</summary>
+
+mlcourse.ai is still in self-paced mode but we offer you Bonus Assignments with solutions for a contribution of $17/month. The idea is that you pay for ~1-5 months while studying the course materials, but a single contribution is still fine and opens your access to the bonus pack.
+
+Note: the first payment is charged at the moment of joining the Tier Patreon, and the next payment is charged on the 1st day of the next month, thus it's better to purchase the pack in the 1st half of the month.
+
+mlcourse.ai is never supposed to go fully monetized (it's created in the wonderful open ODS.ai community and will remain open and free) but it'd help to cover some operational costs, and Yury also put in quite some effort into assembling all the best assignments into one pack. Please note that unlike the rest of the course content, Bonus Assignments are copyrighted. Informally, Yury's fine if you share the pack with 2-3 friends but public sharing of the Bonus Assignments pack is prohibited.
+</details>
+  </div>
+</div><br>
+
+The bonus pack contains 10 assignments, in some of them you are challenged to beat a baseline in a Kaggle competition under thorough guidance (["Alice"](https://mlcourse.ai/book/topic04/bonus_assignment04_alice_baselines.html) and ["Medium"](https://mlcourse.ai/book/topic06/bonus_assignment06.html)) or implement an algorithm from scratch -- efficient stochastic gradient descent [classifier](https://mlcourse.ai/book/topic08/bonus_assignment08.html) and [gradient boosting](https://mlcourse.ai/book/topic10/bonus_assignment10.html).
+
 ### Kaggle competitions
 
 1. Catch Me If You Can: Intruder Detection through Webpage Session Tracking. [Kaggle Inclass](https://www.kaggle.com/c/catch-me-if-you-can-intruder-detection-through-webpage-session-tracking2)
-2. DotA 2 winner prediction. [Kaggle Inclass](https://www.kaggle.com/c/mlcourse-dota2-win-prediction)
-
-### Russian version of the course
-
-The course originated in [OpenDataScience](https://ods.ai/), at that time in 2017 (well, and still), mostly Russian-speaking community. Hence the first couple of sessions were held in Russian. Then, later, the course launched in English and resulted in what you see here and on [mlcourse.ai](https://mlcourse.ai).
-
-The Russian version of the course is resurrected and is led by [Petr Ermakov](https://www.linkedin.com/in/ermakovpetr/). If you speak Russian, please refer to [this Open ML course](https://ods.ai/tracks/open-ml-course) launching on **Feb 1st, 2022.**
+2. Predicting popularity of a Medium article. [Kaggle Inclass](https://www.kaggle.com/c/how-good-is-your-medium-article)
+3. DotA 2 winner prediction. [Kaggle Inclass](https://www.kaggle.com/c/mlcourse-dota2-win-prediction)
 
 ### Citing mlcourse.ai
 
@@ -92,7 +120,7 @@ If you happen to cite [mlcourse.ai](https://mlcourse.ai) in your work, you can u
 ```
 
 ### Community
-Discussions are held in the **#mlcourse_ai** channel of the [OpenDataScience (ods.ai)](https://ods.ai) Slack team.
+Discussions are held in the **#mlcourse\_ai\_eng** channel of the [OpenDataScience (ods.ai)](https://ods.ai) Slack team (however, as of Sept. 2022, ODS Slack can't invite new users, and only 90-day history is retained, transition to [Matrix](https://chat.ods.ai/#/welcome) is in progress).
 
 *The course is free but you can support organizers by making a pledge on [Patreon](https://www.patreon.com/ods_mlcourse) (monthly support) or a one-time payment on [Ko-fi](https://ko-fi.com/mlcourse_ai).*
 

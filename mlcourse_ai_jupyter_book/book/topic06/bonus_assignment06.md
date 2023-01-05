@@ -6,13 +6,19 @@
 :width: 200px
 ```
 
-You can purchase a Bonus Assignments pack with the best non-demo versions of [mlcourse.ai](https://mlcourse.ai/) assignments. Select the ["Bonus Assignments" tier](https://www.patreon.com/ods_mlcourse).
+You can purchase a Bonus Assignments pack with the best non-demo versions of [mlcourse.ai](https://mlcourse.ai/) assignments. Select the ["Bonus Assignments" tier](https://www.patreon.com/ods_mlcourse) on Patreon or a [similar tier](https://boosty.to/ods_mlcourse/purchase/1142055?ssource=DIRECT&share=subscription_link) on Boosty (rus).
 
 <div class="row">
   <div class="col-md-8" markdown="1">
+  <p align="center">
   <a href="https://www.patreon.com/ods_mlcourse">
          <img src="../../_static/img/become_a_patron.png">
-      </a>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://boosty.to/ods_mlcourse">
+         <img src="../../_static/img/boosty_logo.png" width=200px >
+  </a>
+  </p>
   </div>
   <div class="col-md-4" markdown="1">
   <details>
@@ -27,6 +33,6 @@ mlcourse.ai is never supposed to go fully monetized (it's created in the wonderf
   </div>
 </div><br>
 
-In this assignment, you'll be challenged to beat a baseline in the competition where the goal is to predict popularity of a Medium article. For this purpose, you'll be provided with instructions on extracting features from raw JSON files, such as title, author, content, etc. as well as some time-based features.
+In this assignment, you'll be challenged to beat a baseline in the competition where the goal is to predict the popularity of a Medium article. For this purpose, you'll be provided with instructions on extracting features from raw JSON files, such as title, author, content, etc. as well as some time-based features.
 
-Here it's much closer to real-world Data Science, where you spend time fussing with JSONs extracting features and waiting while the model is being trained. At the same time, just like with the "Alice" competition (see [Bonus Assignment 4](bonus04)) feature engineering is the key, and that's fun.
+Here it's much closer to real-world Data Science, where you spend time fussing with JSONs extracting features, and waiting while the model is being trained. At the same time, just like with the "Alice" competition (see [Bonus Assignment 4](bonus04)) feature engineering is the key, and that's fun.
